@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VariavelEstatistica", "VariavelEstatistica\VariavelEstatistica.vcxproj", "{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Debug|x64.ActiveCfg = Debug|x64
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Debug|x64.Build.0 = Debug|x64
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Debug|x86.ActiveCfg = Debug|Win32
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Debug|x86.Build.0 = Debug|Win32
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Release|x64.ActiveCfg = Release|x64
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Release|x64.Build.0 = Release|x64
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Release|x86.ActiveCfg = Release|Win32
+		{CEBCD9A0-B1B0-4ECD-AB36-0B4711E04231}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66F140E-4858-4A3A-A038-9C1F1C7FE6B3}
+	EndGlobalSection
+EndGlobal
